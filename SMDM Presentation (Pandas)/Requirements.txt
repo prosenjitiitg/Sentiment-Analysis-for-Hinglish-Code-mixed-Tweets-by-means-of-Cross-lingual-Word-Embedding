@@ -1,0 +1,29 @@
+Submitted by -
+	Anamitra Mukherjee (214101007)
+	Rittick Mondal (214101041)
+	Souvik Gorai (214101055)
+	Prosenjit Biswas (214101038)
+
+
+Requirements -
+
+Python 3.7 or higher
+matplotlib          3.3.4
+nltk                3.6.1
+numpy               1.20.1
+pandas              1.2.4
+scipy               1.6.2
+seaborn             0.11.1
+sklearn             0.24.1
+ktrain		    0.31.0
+Tensorflow          2.8.0
+Keras               2.9.0
+torch		    1.11.0
+gensim		    3.8.0
+tweet-preprocessor  0.6.0
+smart-open          1.3.3
+torchtext           0.12.0
+
+	Also put all the vecMap files from where you are running the code. Refer to the vecMap github page :- https://github.com/artetxem/vecmap
+
+
